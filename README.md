@@ -2,6 +2,7 @@
 
 
 Features--------------------------------------------
+
 User Authentication: Secure user authentication and authorization system for user registration, login, and logout.
 
 Product Management: CRUD operations for managing products, including adding, editing, and deleting products.
@@ -17,9 +18,13 @@ Responsive Design: Fully responsive design using React Bootstrap for optimal vie
 Technologies Used---------------------------------------------------------------------------------------------
 
 Frontend: React.js, React Router, React Bootstrap
+
 Backend: Node.js, Express.js, Mongoose
+
 Database: MongoDB
+
 Authentication: JSON Web Tokens (JWT)
+
 Payment Integration: Braintree Payment Gateway
 
 
